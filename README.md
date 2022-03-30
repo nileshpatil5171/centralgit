@@ -1,2 +1,0 @@
-# centralgit
-code for shayari 
